@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-21T18:31:53 IST" name="Default suite" finished-at="2022-09-21T18:32:17 IST" duration-ms="23916">
+    <groups>
+    </groups>
+    <test started-at="2022-09-21T18:31:53 IST" name="Default test" finished-at="2022-09-21T18:32:17 IST" duration-ms="23916">
+      <class name="org.sms.admin.testng.CreateGradeTest">
+        <test-method is-config="true" signature="classSetUp()[pri:0, instance:org.sms.admin.testng.CreateGradeTest@2d710f1a]" started-at="2022-09-21T18:31:53 IST" name="classSetUp" finished-at="2022-09-21T18:32:01 IST" duration-ms="7463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classSetUp -->
+        <test-method is-config="true" signature="methodSetUp()[pri:0, instance:org.sms.admin.testng.CreateGradeTest@2d710f1a]" started-at="2022-09-21T18:32:01 IST" name="methodSetUp" finished-at="2022-09-21T18:32:01 IST" duration-ms="814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodSetUp -->
+        <test-method signature="createGradeTest()[pri:0, instance:org.sms.admin.testng.CreateGradeTest@2d710f1a]" started-at="2022-09-21T18:32:01 IST" name="createGradeTest" finished-at="2022-09-21T18:32:16 IST" duration-ms="15092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createGradeTest -->
+        <test-method is-config="true" signature="methodTearDown()[pri:0, instance:org.sms.admin.testng.CreateGradeTest@2d710f1a]" started-at="2022-09-21T18:32:16 IST" name="methodTearDown" finished-at="2022-09-21T18:32:17 IST" duration-ms="484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTearDown -->
+      </class> <!-- org.sms.admin.testng.CreateGradeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
